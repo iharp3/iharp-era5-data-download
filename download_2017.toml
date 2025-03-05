@@ -1,0 +1,60 @@
+["Antarctica"]
+short_name = "AN"
+lat = [-60, -90]
+lon = [-180, 180]
+variables = [
+    "2m_temperature",
+    "surface_pressure",
+    "total_precipitation",
+    "ice_temperature_layer_1",
+    "ice_temperature_layer_2",
+    "ice_temperature_layer_3",
+    "ice_temperature_layer_4",
+    "snow_depth",
+    "snowfall",
+    "snowmelt",
+    "temperature_of_snow_layer",
+]
+years = [2017]
+
+
+["Alaska"]
+short_name = "AK"
+lat = [72, 50]
+lon = [-170, -130]
+variables = [
+    "2m_temperature",
+    "surface_pressure",
+    "total_precipitation",
+    "ice_temperature_layer_1",
+    "ice_temperature_layer_2",
+    "ice_temperature_layer_3",
+    "ice_temperature_layer_4",
+    "snow_depth",
+    "snowfall",
+    "snowmelt",
+    "temperature_of_snow_layer",
+]
+years = [2017]
+
+
+["Greenland"]
+short_name = "GL"
+lat = [84, 58]
+lon = [-75, -10]
+variables = [
+    "2m_temperature",
+    "surface_pressure",
+    "total_precipitation",
+    "ice_temperature_layer_1",
+    "ice_temperature_layer_2",
+    "ice_temperature_layer_3",
+    "ice_temperature_layer_4",
+    "snow_depth",
+    "snowfall",
+    "snowmelt",
+    "temperature_of_snow_layer",
+]
+years = [2017]
+
+

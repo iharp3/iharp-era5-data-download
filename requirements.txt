@@ -1,2 +1,4 @@
 cdsapi
 jupyter
+netCDF4
+xarray
